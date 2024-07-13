@@ -1,0 +1,16 @@
+SerialNumber,Issue,Rating,Description
+1,Network latency issues in remote locations,4.50,Delays in network performance in rural areas.
+2,Frequent software crashes,3.80,Unexpected crashes in the main application.
+3,Data inconsistency in the database,4.00,Mismatch in user data across different tables.
+4,Security vulnerabilities in the application,4.70,Potential exploits found in the authentication module.
+5,Poor user interface design,3.50,Feedback indicates UI is not user-friendly.
+6,High memory usage in background processes,4.20,Background processes consuming excessive memory.
+7,Inadequate error handling,3.90,Errors are not handled gracefully leading to poor UX.
+8,Slow response times for API calls,4.30,API calls taking longer than expected to respond.
+9,Lack of documentation for new features,3.70,Insufficient documentation for newly added features.
+10,Compatibility issues with older hardware,4.10,Software not functioning properly on older hardware.
+11,Frequent password reset requests,3.60,Users are often required to reset their passwords.
+12,Inconsistent data backup schedules,4.40,Data backups are not being performed consistently.
+13,Complexity in navigation,3.80,Users find it difficult to navigate through the system.
+14,Limited support for internationalization,4.00,Application lacks adequate support for multiple languages.
+15,Issues with session management,4.50,"Sessions are not managed properly, leading to unexpected logouts."
